@@ -1,0 +1,306 @@
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Helpers.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Helpers.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Mvc.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.Helpers.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.Helpers.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.Mvc.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.Helpers.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.Helpers.xml
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.Mvc.xml
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\InternProject\MyInternProject\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.Helpers.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.Helpers.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.Mvc.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\MyInternProject\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalR)\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Test.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Test.pdb
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Owin.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\obj\Release\Test.dll
+C:\Users\Brian\Documents\MyInternProjects\InternProject\MyInternProject(SignalR)\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\InternProject-master\MyInternProject(SignalRwithNoChatHub)\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\SharpNFC.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.pdb
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Owin.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Mvc.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.dll
+C:\NFCproject-master (1)\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\SharpNFC.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\NFC+Buzzer+LED+Button\NFCproject-master\NFC+Button+LED\MvcApplication2\obj\Release\Test.pdb
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Owin.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Desktop\NFC+Button+LED+Buzzer\MvcApplication2\obj\Release\Test.pdb
