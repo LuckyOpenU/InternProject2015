@@ -57,7 +57,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/14/2015 01:36:50</publishTime>
     </File>
     <File Include="bin/Test.dll">
-      <publishTime>07/23/2015 16:51:53</publishTime>
+      <publishTime>07/24/2015 12:28:05</publishTime>
     </File>
     <File Include="Content/Site.css">
       <publishTime>07/14/2015 01:36:50</publishTime>
@@ -303,7 +303,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/14/2015 01:36:50</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/23/2015 16:51:53</publishTime>
+      <publishTime>07/24/2015 12:28:05</publishTime>
     </File>
   </ItemGroup>
 </Project>

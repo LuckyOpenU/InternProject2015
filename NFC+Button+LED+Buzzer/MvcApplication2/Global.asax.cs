@@ -54,19 +54,21 @@ namespace MvcApplication2
 
             InitiGPIO();
 
-            Thread watcher = new Thread(new ThreadStart(ThreadWatcher));
-            watcher.Start();
-            Thread watch = new Thread(new ThreadStart(ThreadWatch));
-            watch.Start();
+            Thread threadSmartCard = new Thread(new ThreadStart(ThreadSmartCard));
+            threadSmartCard.Start();
+
+            Thread threadButton = new Thread(new ThreadStart(ThreadButton));
+            threadButton.Start();
+
             return;
         }
 
-        private void ThreadWatch()
+        private void ThreadButton()
         {
             CurrentState = new GPIOState();
+
             while (true)
             {
-
                 var sw1 = GPIO24_Sw1.Value != 0;
 
                 lock (CurrentState)
@@ -89,8 +91,7 @@ namespace MvcApplication2
                     }
                 }
 
-
-                Thread.Sleep(10);
+                Thread.Sleep(100);
             }
         }
 
@@ -103,8 +104,6 @@ namespace MvcApplication2
         public static string FileName { get; set; }
         public static bool RedirectStandardOutput { get; set; }
         public static bool UseShellExecute { get; set; }
-
-
 
         private static void InitiGPIO()
         {
@@ -121,7 +120,7 @@ namespace MvcApplication2
             GPIO23_buz.Direction = GPIODirection.Out;
         }
 
-        static private void ThreadWatcher()
+        static private void ThreadSmartCard()
         {
             var gpio23 = TinyGPIO.Export(23);
             gpio23.Direction = (GPIODirection)GPIODirection.Out;
@@ -152,18 +151,19 @@ namespace MvcApplication2
             nfc_modulation nfcModulation = new nfc_modulation();
             nfcModulation.nbr = nfc_baud_rate.NBR_106;
             nfcModulation.nmt = nfc_modulation_type.NMT_ISO14443A;
+
             nfc_modulationList.Add(nfcModulation);
 
             string currentSignalRStr = null;
             string currentConsoleStr = null;
             string signalRStr;
             string consoleStr;
+            string state = "---";
 
             for (; ; )
             {
-                Thread.Sleep(100);
                 gpio23.Value = 0;
- 
+                Thread.Sleep(100);
                 rtn = nfcDevice.Pool(nfc_modulationList, 1, 2, out nfcTarget);
 
                 if (rtn < 0)
@@ -171,6 +171,7 @@ namespace MvcApplication2
                     consoleStr = "NFC-Poll Targert Not Found!";
                     signalRStr = "---";
                     gpio23.Value = 0;
+
                 }
                 else
                 {
@@ -182,11 +183,24 @@ namespace MvcApplication2
                     signalRStr = "0x" + signalRStr;
 
                     consoleStr = string.Format("NFC-Poll Target Found: uid is [{0}]", signalRStr);
-                    gpio23.Value = 1;
                 }
-
-                if (signalRStr != currentSignalRStr)
+                if (signalRStr != state)
                 {
+                    if (signalRStr != currentSignalRStr)
+                    {
+                        NFC.Instance.UpdateNFCStatus(signalRStr);
+                        currentSignalRStr = signalRStr;
+                        gpio23.Value = 1;
+                        Thread.Sleep(100);
+                    }
+                    else
+                    {
+                        gpio23.Value = 0;
+                    }
+                }
+                else
+                {
+                    gpio23.Value = 0;
                     NFC.Instance.UpdateNFCStatus(signalRStr);
                     currentSignalRStr = signalRStr;
                 }
@@ -197,7 +211,6 @@ namespace MvcApplication2
                     currentConsoleStr = consoleStr;
                 }
             }
-
         }
     }
 }
